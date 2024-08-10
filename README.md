@@ -1,6 +1,8 @@
 # Azure Restaurant ChatBot
 
 using https://learn.microsoft.com/en-us/training/modules/use-own-data-azure-openai/
+
+
 Welcome to the Restaurant AI Bot project! This AI-powered bot is designed to enhance the dining experience by providing intelligent recommendations and detailed information about dishes on a restaurant's menu. Whether you're looking for dishes with specific ingredients, seeking meals within a certain price range, or simply exploring the menu, this bot is here to assist you.
 
 ## Project Overview
