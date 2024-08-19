@@ -63,6 +63,12 @@ data = []
 for item in menu_items:
     data.append(create_entry(item))
 
+# Create the final structure with the category key
+final_data = {
+    "category": "menu items",
+    "dishes": data
+}
+
 # Write to JSON file
 with open('food_user_qa_dataset.json', 'w') as f:  # Adjust filename as needed
-    json.dump(data, f, indent=2)
+    json.dump(final_data, f, indent=2)
